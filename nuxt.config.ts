@@ -14,6 +14,7 @@ export default defineNuxtConfig({
   },
   
   css: [
+    'primeflex/primeflex.css',
     '@/assets/css/main.css'
   ],
 
