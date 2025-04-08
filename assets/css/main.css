@@ -1,0 +1,7 @@
+/* (Se estiver usando Google Fonts) */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Definir a fonte como padrão */
+html, body {
+  font-family: 'Roboto', sans-serif;
+}
